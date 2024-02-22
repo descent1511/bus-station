@@ -47,7 +47,7 @@ Bus-Station allows users to create new accounts, providing them with personalize
 ![bus](images/bus.jpg)
 
 ### Driver Page
-![bus](images/driver.jpg)
+![bus](images/Driver.jpg)
 
 ### Schedule Page
 ![bus](images/schedule.jpg)
