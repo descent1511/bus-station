@@ -25,3 +25,10 @@ env/
 
 # Ignore migrations, as these are usually auto-generated
 **/migrations/
+
+
+vscode/
+.gitignore
+node_modules/
+
+
